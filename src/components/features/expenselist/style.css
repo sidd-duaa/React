@@ -1,0 +1,21 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+}
+.list {
+  list-style: none;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+  gap: 0.5rem;
+}
+.list .date {
+  font-size: 14px;
+  /* background-color: blueviolet; */
+}
+.list .title {
+  font-size: 20px;
+}
